@@ -26,7 +26,7 @@
     <!-- Email Header -->
     <mj-section background-color="#000000" padding="20px">
       <mj-column>
-        <mj-image width="75px" src="/images/elf-cosmetics-logo.png" alt="e.l.f. Cosmetics" />
+        <mj-image width="75px" src="images/elf-cosmetics-logo.png" alt="e.l.f. Cosmetics" />
       </mj-column>
     </mj-section>
 
@@ -48,12 +48,12 @@
     <!-- Email Feature Image  -->
     <mj-section padding="0" background-color="#f7f7f7">
       <mj-column>
-        <mj-image width="640px" padding="0" src="/images/WE8uyuCnivJGEZd_mdnd5f_16UzjyLZsB8Iz_OQjpPKnS4DchHt9ufe2720laIN0k0Xvvgk_MtDUC2JhOxz8Cd_UteXBTzDgNn3wWcVfOLLlAiltaOMtVDs40QCCn8sYkLQ5hw3utL-fraAWlqYB5lYwYI_5ladw6WGV=s0-d-e1-ft.gif" />
+        <mj-image width="640px" padding="0" src="images/WE8uyuCnivJGEZd_mdnd5f_16UzjyLZsB8Iz_OQjpPKnS4DchHt9ufe2720laIN0k0Xvvgk_MtDUC2JhOxz8Cd_UteXBTzDgNn3wWcVfOLLlAiltaOMtVDs40QCCn8sYkLQ5hw3utL-fraAWlqYB5lYwYI_5ladw6WGV=s0-d-e1-ft.gif" />
       </mj-column>
     </mj-section>
 
     <!-- Email Feature Image/Text  -->
-    <mj-hero mode="fixed-height" height="427px" background-width="640px" background-height="427px" background-url="/images/XCfJghSW-eWKYNJ0BCbzpsjoxbowOvtkUgZ-l9pbif_84nllz8RcbGyP1mAbrZqy6JoJEJeFER3msjl-Gn9MIBZCG6QSBmjcEu3FnEn7jRJWSRJmJFmG9hwSrIff0wC2eSanZB207fvrasf2hf_ARX1RIWE9OiHbV4_-=s0-d-e1-ft.jpg" background-color="#f7f7f7" padding="30px 40px">
+    <mj-hero mode="fixed-height" height="427px" background-width="640px" background-height="427px" background-url="images/XCfJghSW-eWKYNJ0BCbzpsjoxbowOvtkUgZ-l9pbif_84nllz8RcbGyP1mAbrZqy6JoJEJeFER3msjl-Gn9MIBZCG6QSBmjcEu3FnEn7jRJWSRJmJFmG9hwSrIff0wC2eSanZB207fvrasf2hf_ARX1RIWE9OiHbV4_-=s0-d-e1-ft.jpg" background-color="#f7f7f7" padding="30px 40px">
       <mj-text align="center">
         <h1 style="font-size: 82px;line-height:80px;letter-spacing:-3px;margin:0;">Blemish
           Breakthrough</h1>
@@ -65,7 +65,7 @@
     <!-- Acne Clarifying Cleanser Callout  -->
     <mj-section>
       <mj-column>
-        <mj-image width="640px" padding="0" src="/images/2Y2fNH4Yjn8yZLD5x4YWADWtvFAIa3c53TNqIFVJfJztU5DtSmFodFUou6RCBgqgdQ1YbfWh5VMEFh198A8vM9agkeyL5GCJ19gIzj8WDoQrbeiYPUPftn6C3fm-WnEFNGUEv9S5DSKveO3QrV-MfTM5dcIb8n4ebUiL=s0-d-e1-ft.jpg" />
+        <mj-image width="640px" padding="0" src="images/2Y2fNH4Yjn8yZLD5x4YWADWtvFAIa3c53TNqIFVJfJztU5DtSmFodFUou6RCBgqgdQ1YbfWh5VMEFh198A8vM9agkeyL5GCJ19gIzj8WDoQrbeiYPUPftn6C3fm-WnEFNGUEv9S5DSKveO3QrV-MfTM5dcIb8n4ebUiL=s0-d-e1-ft.jpg" />
       </mj-column>
       <mj-column padding="40px" vertical-align="bottom">
         <mj-text align="right">
@@ -81,7 +81,7 @@
     <!-- Acne Calming Water Cream Callout  -->
     <mj-section direction="rtl">
       <mj-column>
-        <mj-image width="640px" padding="0" src="/images/P5qH0bnlswKxIAHmeFXpc_XxIqMq0ls1VGWeqN02bR67pV3SLmcvB3iPc_rlx6kjTqzh4x1eHYyJ-DNENrECvwp93-8woxdivXWoBLT5irqg3vOQ-QaQRiGbyIG0I4AekQAVP6RiAQ4zY2h-Ku6Vs06bTUq5n-F-3BUm=s0-d-e1-ft.jpg" />
+        <mj-image width="640px" padding="0" src="images/P5qH0bnlswKxIAHmeFXpc_XxIqMq0ls1VGWeqN02bR67pV3SLmcvB3iPc_rlx6kjTqzh4x1eHYyJ-DNENrECvwp93-8woxdivXWoBLT5irqg3vOQ-QaQRiGbyIG0I4AekQAVP6RiAQ4zY2h-Ku6Vs06bTUq5n-F-3BUm=s0-d-e1-ft.jpg" />
       </mj-column>
       <mj-column padding="40px" vertical-align="bottom">
         <mj-text align="left">
@@ -97,7 +97,7 @@
     <!-- Triple-Acid Resurfacing Serum Callout  -->
     <mj-section>
       <mj-column>
-        <mj-image width="640px" padding="0" src="/images/84kktWud307FU3NMjjpMPqh56NA8-cVeIrQqno7lCaWotr3yEgGaBKo7u_q6VX9AU4SNFoB1Nc-XhFmg6h1r-e5MOKoR8g_9W4J0sh3j3dwY210oWXbxJKhqFJLBaV391GOWEqRn6w6LNPC9Wjwx0w2lwqw-_rGcGxx7=s0-d-e1-ft.jpg" />
+        <mj-image width="640px" padding="0" src="images/84kktWud307FU3NMjjpMPqh56NA8-cVeIrQqno7lCaWotr3yEgGaBKo7u_q6VX9AU4SNFoB1Nc-XhFmg6h1r-e5MOKoR8g_9W4J0sh3j3dwY210oWXbxJKhqFJLBaV391GOWEqRn6w6LNPC9Wjwx0w2lwqw-_rGcGxx7=s0-d-e1-ft.jpg" />
       </mj-column>
       <mj-column padding="40px" vertical-align="bottom">
         <mj-text align="right">
@@ -113,7 +113,7 @@
     <!-- Acne Fighting Spot Gel Callout  -->
     <mj-section direction="rtl">
       <mj-column>
-        <mj-image width="640px" padding="0" src="/images/vR6iiO1Ym9m5T9m2HrJLNyc58y-2KMKsWLppT08UowpWrwfGB0Az0cCUQDFXEZpYVhzaCzdQvQ3eFyz2iPWaTxlaDyOQRw2kN82QEvG7z60ylMyJLd7eKKVUeqA8A3kzy79j6YRJxfiySElwotvwDy_cQeEk9c2GFKrv=s0-d-e1-ft.jpg" />
+        <mj-image width="640px" padding="0" src="images/vR6iiO1Ym9m5T9m2HrJLNyc58y-2KMKsWLppT08UowpWrwfGB0Az0cCUQDFXEZpYVhzaCzdQvQ3eFyz2iPWaTxlaDyOQRw2kN82QEvG7z60ylMyJLd7eKKVUeqA8A3kzy79j6YRJxfiySElwotvwDy_cQeEk9c2GFKrv=s0-d-e1-ft.jpg" />
       </mj-column>
       <mj-column padding="40px" vertical-align="bottom">
         <mj-text align="left">
@@ -134,21 +134,21 @@
     </mj-section>
 
     <!-- Belmish Breakthrough Line Callouts -->
-    <mj-section padding="40px" background-url="/images/rAXI5ZqvrBIZR-ob8_E_wyQ9olH1vbQI5Ib7bXWCjwhcQKtydVtm7nOYcmZZszQ8vZ4zMZnN922PbbcSvgRmMjp82fmtPXsywyRDU78nLNS6zW6iCyY66qcyyXhkYxbAfMjHQD_yXGzWD8s2nzU2C-wK_-uLSD94q1kN=s0-d-e1-ft.jpg" background-size="cover">
+    <mj-section padding="40px" background-url="images/rAXI5ZqvrBIZR-ob8_E_wyQ9olH1vbQI5Ib7bXWCjwhcQKtydVtm7nOYcmZZszQ8vZ4zMZnN922PbbcSvgRmMjp82fmtPXsywyRDU78nLNS6zW6iCyY66qcyyXhkYxbAfMjHQD_yXGzWD8s2nzU2C-wK_-uLSD94q1kN=s0-d-e1-ft.jpg" background-size="cover">
         <mj-column width="35%">
-          <mj-image width="40px" src="/images/icons_derm-developed.png" alt="We listen to industry experts." />
+          <mj-image width="40px" src="images/icons_derm-developed.png" alt="We listen to industry experts." />
           <mj-text align="center" text-transform="uppercase" font-weight="600" font-size="16px">Derm-Developed</mj-text>
         </mj-column>
         <mj-column width="20%">
-          <mj-image width="40px" src="/images/icons_elf-clean.png" alt="e.l.f. Cosmetics' Clean-Beuaty Seal" />
+          <mj-image width="40px" src="images/icons_elf-clean.png" alt="e.l.f. Cosmetics' Clean-Beuaty Seal" />
           <mj-text align="center" text-transform="uppercase" font-weight="600" font-size="16px">E.L.F. Clean</mj-text>
         </mj-column>
         <mj-column width="20%">
-          <mj-image width="40px" src="/images/icons_vegan.png" alt="Only plants here." />
+          <mj-image width="40px" src="images/icons_vegan.png" alt="Only plants here." />
           <mj-text align="center" text-transform="uppercase" font-weight="600" font-size="16px">Vegan</mj-text>
         </mj-column>
         <mj-column width="25%">
-          <mj-image width="40px" src="/images/icons_cruelty-free.png" alt="Approved by 5 out of 5 rabbits." />
+          <mj-image width="40px" src="images/icons_cruelty-free.png" alt="Approved by 5 out of 5 rabbits." />
           <mj-text align="center" text-transform="uppercase" font-weight="600" font-size="16px">Cruelty-Free</mj-text>
         </mj-column>
     </mj-section>
@@ -197,7 +197,7 @@
     <!-- Cruelty-Free and Vegan Callout -->
     <mj-section padding="0">
       <mj-column>
-        <mj-image padding="0" src="/images/eXYKHhTQr-NigqQ5DA4XjPtdxA-E-D_W9RH1uqCtMgqcZZkbOm1zdKhvNJFqRYC0ETMXjcs6Ygx-H9nzdQDFZ1OP4r_Gwbnh-UM0n39nfYcsm9ZN3OCPduSXU8BG0Y_dL8cqXT-JGU8Wh9ALzRTpCoTkQNbk9E-QmX2O=s0-d-e1-ft-1.jpg" />
+        <mj-image padding="0" src="images/eXYKHhTQr-NigqQ5DA4XjPtdxA-E-D_W9RH1uqCtMgqcZZkbOm1zdKhvNJFqRYC0ETMXjcs6Ygx-H9nzdQDFZ1OP4r_Gwbnh-UM0n39nfYcsm9ZN3OCPduSXU8BG0Y_dL8cqXT-JGU8Wh9ALzRTpCoTkQNbk9E-QmX2O=s0-d-e1-ft-1.jpg" />
       </mj-column>
     </mj-section>
 
@@ -206,11 +206,11 @@
       <mj-column width="75%">
         <mj-table>
           <tr>
-            <th><img width="30px" height="30px" src="/images/social-icons/social-icons_instagram.png" alt="Instagram Icon" /></th>
-            <th><img width="30px" height="30px" src="/images/social-icons/social-icons_facebook.png" alt="Facebook Icon" /></th>
-            <th><img width="30px" height="30px" src="/images/social-icons/social-icons_twitter.png" alt="Twitter Icon" /></th>
-            <th><img width="30px" height="30px" src="/images/social-icons/social-icons_youtube.png" alt="YouTube Icon" /></th>
-            <th><img width="30px" height="30px" src="/images/social-icons/social-icons_snapchat.png" alt="Snapchat Icon" /></th>
+            <th><img width="30px" height="30px" src="images/social-icons/social-icons_instagram.png" alt="Instagram Icon" /></th>
+            <th><img width="30px" height="30px" src="images/social-icons/social-icons_facebook.png" alt="Facebook Icon" /></th>
+            <th><img width="30px" height="30px" src="images/social-icons/social-icons_twitter.png" alt="Twitter Icon" /></th>
+            <th><img width="30px" height="30px" src="images/social-icons/social-icons_youtube.png" alt="YouTube Icon" /></th>
+            <th><img width="30px" height="30px" src="images/social-icons/social-icons_snapchat.png" alt="Snapchat Icon" /></th>
           </tr>
         </mj-table>
       </mj-column>
