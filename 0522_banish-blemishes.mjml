@@ -238,12 +238,14 @@
       </mj-column>
     </mj-section>
 
+    <!-- Disclaimer -->
     <mj-section background-color="#f7f7f7" padding="40px">
       <mj-column border="solid 1px #dddddd" padding="30px">
         <mj-text font-size="16px">All offers are valid while supplies last. e.l.f. Cosmetics reserves the right to substitute any product at its discretion and the right to limit quantities and discounts without notice. Not valid for bulk orders. Discounts and coupons are not applicable to gift card purchases. Only one coupon code may be applied per order. Free or discounted shipping offers are based on $4.95 Standard US Shipping, Canadian orders will receive $4.95 or other applicable discount off the $7.50 Canadian Standard Shipping cost.</mj-text>
       </mj-column>
     </mj-section>
 
+    <!-- Address for CANSPAM -->
     <mj-section background-color="#f7f7f7" padding="0 40px 20px 40px">
       <mj-column>
         <mj-text font-size="16px" align="center" >
@@ -255,6 +257,7 @@
       </mj-column>
     </mj-section>
 
+    <!-- Copyright -->
     <mj-section background-color="#f7f7f7" padding="20px 40px" border-top="solid 01px #dddddd">
       <mj-column>
         <mj-text font-size="16px" align="center" >© 2022 e.l.f. Cosmetics, Inc.</mj-text>
