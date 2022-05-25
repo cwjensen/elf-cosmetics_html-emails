@@ -8,10 +8,18 @@
   </mj-head>
   <mj-body width="640px" background-color="#ffffff">
 
+    <!-----------------------------------------------------------
+    -------------------------------------------------------------
+
+    Email Header
+
+    -------------------------------------------------------------
+    ------------------------------------------------------------>
+
     <!-- Introductory Sentence -->
     <mj-section background-color="#C6E8D0" padding="10px">
       <mj-column>
-        <mj-text font-size="16px" color="#000000" align="center">Salicylic Acid and other skin-loving ingredients clear skin & treat acne</mj-text>
+        <mj-text font-size="16px" color="#000000" align="center">Salicylic Acid and other skin-loving ingredients clear skin &amp; treat acne</mj-text>
       </mj-column>
     </mj-section>
 
@@ -22,30 +30,39 @@
       </mj-column>
     </mj-section>
 
-    <!-- Beuaty Member Status -->
+    <!-- Beauty Member Status -->
     <mj-section padding="20px">
       <mj-column>
         <mj-text font-size="16px" color="#000000" align="center"><b>Icon</b> <span style="color:#dddddd;">|</span> <b>You have 1259 points. <a href="" target="_blank" style="text-transform:uppercase;color:inherit;">Sign In</a></b></mj-text>
       </mj-column>
     </mj-section>
 
-    <!-- Email Content  -->
+    <!-----------------------------------------------------------
+    -------------------------------------------------------------
 
+    Email Content
+
+    -------------------------------------------------------------
+    ------------------------------------------------------------>
+
+    <!-- Email Feature Image  -->
     <mj-section padding="0" background-color="#f7f7f7">
       <mj-column>
         <mj-image width="640px" padding="0" src="/images/WE8uyuCnivJGEZd_mdnd5f_16UzjyLZsB8Iz_OQjpPKnS4DchHt9ufe2720laIN0k0Xvvgk_MtDUC2JhOxz8Cd_UteXBTzDgNn3wWcVfOLLlAiltaOMtVDs40QCCn8sYkLQ5hw3utL-fraAWlqYB5lYwYI_5ladw6WGV=s0-d-e1-ft.gif" />
       </mj-column>
     </mj-section>
 
+    <!-- Email Feature Image/Text  -->
     <mj-hero mode="fixed-height" height="427px" background-width="640px" background-height="427px" background-url="/images/XCfJghSW-eWKYNJ0BCbzpsjoxbowOvtkUgZ-l9pbif_84nllz8RcbGyP1mAbrZqy6JoJEJeFER3msjl-Gn9MIBZCG6QSBmjcEu3FnEn7jRJWSRJmJFmG9hwSrIff0wC2eSanZB207fvrasf2hf_ARX1RIWE9OiHbV4_-=s0-d-e1-ft.jpg" background-color="#f7f7f7" padding="30px 40px">
       <mj-text align="center">
         <h1 style="font-size: 82px;line-height:80px;letter-spacing:-3px;margin:0;">Blemish
           Breakthrough</h1>
-        <p style="font-size: 28px;line-height:34px;">Salicylic Acid and other skin-loving ingredients clear skin & treat acne</p>
+        <p style="font-size: 28px;line-height:34px;">Salicylic Acid and other skin-loving ingredients clear skin &amp; treat acne</p>
       </mj-text>
       <mj-button>Shop Now</mj-button>
     </mj-hero>
 
+    <!-- Acne Clarifying Cleanser Callout  -->
     <mj-section>
       <mj-column>
         <mj-image width="640px" padding="0" src="/images/2Y2fNH4Yjn8yZLD5x4YWADWtvFAIa3c53TNqIFVJfJztU5DtSmFodFUou6RCBgqgdQ1YbfWh5VMEFh198A8vM9agkeyL5GCJ19gIzj8WDoQrbeiYPUPftn6C3fm-WnEFNGUEv9S5DSKveO3QrV-MfTM5dcIb8n4ebUiL=s0-d-e1-ft.jpg" />
@@ -56,11 +73,12 @@
           <h2 style="margin:0;font-size:24px;line-height:26px;letter-spacing:1px;text-transform:uppercase;">Acne Clarifying Cleanser, $9</h2>
         </mj-text>
         <mj-divider padding="10px 0" border-width="4px" border-style="solid" border-color="#000000" align="right" />
-        <mj-text align="right">1% Salicylic Acid removes dirt & impurities while actively soothing skin.</mj-text>
+        <mj-text align="right">1% Salicylic Acid removes dirt &amp; impurities while actively soothing skin.</mj-text>
         <mj-button align="right" padding="20px 0" background-color="#ffffff" color="#000000" inner-padding="0">Shop Now</mj-button>
       </mj-column>
     </mj-section>
 
+    <!-- Acne Calming Water Cream Callout  -->
     <mj-section direction="rtl">
       <mj-column>
         <mj-image width="640px" padding="0" src="/images/P5qH0bnlswKxIAHmeFXpc_XxIqMq0ls1VGWeqN02bR67pV3SLmcvB3iPc_rlx6kjTqzh4x1eHYyJ-DNENrECvwp93-8woxdivXWoBLT5irqg3vOQ-QaQRiGbyIG0I4AekQAVP6RiAQ4zY2h-Ku6Vs06bTUq5n-F-3BUm=s0-d-e1-ft.jpg" />
@@ -71,11 +89,12 @@
           <h2 style="margin:0;font-size:24px;line-height:26px;letter-spacing:1px;text-transform:uppercase;">Acne Calming Water Cream, $12</h2>
         </mj-text>
         <mj-divider padding="10px 0" border-width="4px" border-style="solid" border-color="#000000" align="right" />
-        <mj-text align="left">4% Niacinamide improves the appearance of skin while N-acetyl glucosamine soothes & moisturizes.</mj-text>
+        <mj-text align="left">4% Niacinamide improves the appearance of skin while N-acetyl glucosamine soothes &amp; moisturizes.</mj-text>
         <mj-button align="left" padding="20px 0" background-color="#ffffff" color="#000000" inner-padding="0">Shop Now</mj-button>
       </mj-column>
     </mj-section>
 
+    <!-- Triple-Acid Resurfacing Serum Callout  -->
     <mj-section>
       <mj-column>
         <mj-image width="640px" padding="0" src="/images/84kktWud307FU3NMjjpMPqh56NA8-cVeIrQqno7lCaWotr3yEgGaBKo7u_q6VX9AU4SNFoB1Nc-XhFmg6h1r-e5MOKoR8g_9W4J0sh3j3dwY210oWXbxJKhqFJLBaV391GOWEqRn6w6LNPC9Wjwx0w2lwqw-_rGcGxx7=s0-d-e1-ft.jpg" />
@@ -91,6 +110,7 @@
       </mj-column>
     </mj-section>
 
+    <!-- Acne Fighting Spot Gel Callout  -->
     <mj-section direction="rtl">
       <mj-column>
         <mj-image width="640px" padding="0" src="/images/vR6iiO1Ym9m5T9m2HrJLNyc58y-2KMKsWLppT08UowpWrwfGB0Az0cCUQDFXEZpYVhzaCzdQvQ3eFyz2iPWaTxlaDyOQRw2kN82QEvG7z60ylMyJLd7eKKVUeqA8A3kzy79j6YRJxfiySElwotvwDy_cQeEk9c2GFKrv=s0-d-e1-ft.jpg" />
@@ -106,31 +126,34 @@
       </mj-column>
     </mj-section>
 
+    <!-- Spacing  -->
     <mj-section padding="0">
       <mj-column>
         <mj-spacer height="40px" />
       </mj-column>
     </mj-section>
 
+    <!-- Belmish Breakthrough Line Callouts -->
     <mj-section padding="40px" background-url="/images/rAXI5ZqvrBIZR-ob8_E_wyQ9olH1vbQI5Ib7bXWCjwhcQKtydVtm7nOYcmZZszQ8vZ4zMZnN922PbbcSvgRmMjp82fmtPXsywyRDU78nLNS6zW6iCyY66qcyyXhkYxbAfMjHQD_yXGzWD8s2nzU2C-wK_-uLSD94q1kN=s0-d-e1-ft.jpg" background-size="cover">
-      <mj-column width="35%">
-        <mj-image width="40px" src="/images/icons_derm-developed.png" alt="We listen to industry experts." />
-        <mj-text align="center" text-transform="uppercase" font-weight="600" font-size="16px">Derm-Developed</mj-text>
-      </mj-column>
-      <mj-column width="20%">
-        <mj-image width="40px" src="/images/icons_elf-clean.png" alt="e.l.f. Cosmetics' Clean-Beuaty Seal" />
-        <mj-text align="center" text-transform="uppercase" font-weight="600" font-size="16px">E.L.F. Clean</mj-text>
-      </mj-column>
-      <mj-column width="20%">
-        <mj-image width="40px" src="/images/icons_vegan.png" alt="Only plants here." />
-        <mj-text align="center" text-transform="uppercase" font-weight="600" font-size="16px">Vegan</mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="40px" src="/images/icons_cruelty-free.png" alt="Approved by 5 out of 5 rabbits." />
-        <mj-text align="center" text-transform="uppercase" font-weight="600" font-size="16px">Cruelty-Free</mj-text>
-      </mj-column>
+        <mj-column width="35%">
+          <mj-image width="40px" src="/images/icons_derm-developed.png" alt="We listen to industry experts." />
+          <mj-text align="center" text-transform="uppercase" font-weight="600" font-size="16px">Derm-Developed</mj-text>
+        </mj-column>
+        <mj-column width="20%">
+          <mj-image width="40px" src="/images/icons_elf-clean.png" alt="e.l.f. Cosmetics' Clean-Beuaty Seal" />
+          <mj-text align="center" text-transform="uppercase" font-weight="600" font-size="16px">E.L.F. Clean</mj-text>
+        </mj-column>
+        <mj-column width="20%">
+          <mj-image width="40px" src="/images/icons_vegan.png" alt="Only plants here." />
+          <mj-text align="center" text-transform="uppercase" font-weight="600" font-size="16px">Vegan</mj-text>
+        </mj-column>
+        <mj-column width="25%">
+          <mj-image width="40px" src="/images/icons_cruelty-free.png" alt="Approved by 5 out of 5 rabbits." />
+          <mj-text align="center" text-transform="uppercase" font-weight="600" font-size="16px">Cruelty-Free</mj-text>
+        </mj-column>
     </mj-section>
 
+    <!-- Shop Collection Button -->
     <mj-section padding="0">
       <mj-column>
         <mj-spacer height="40px" />
@@ -139,6 +162,7 @@
       </mj-column>
     </mj-section>
 
+    <!-- Quick Links -->
     <mj-section padding="0">
       <mj-column>
         <mj-button padding="5px 0" width="100%" background-color="#F7F7F7" color="#000000" inner-padding="30px" font-size="26px">New</mj-button>
@@ -155,22 +179,85 @@
       </mj-column>
     </mj-section>
 
+    <!-- Brand Tagline -->
     <mj-section padding="0">
       <mj-column>
         <mj-text font-size="42px" line-height="1.0" letter-spacing="-1px" font-weight="600" align="center" padding="40px">e.l.f. is for every eye, lip, face and skin concern.</mj-text>
       </mj-column>
     </mj-section>
 
-    <!-- Top Footer -->
+    <!-----------------------------------------------------------
+    -------------------------------------------------------------
 
+    Footer
+
+    -------------------------------------------------------------
+    ------------------------------------------------------------>
+
+    <!-- Cruelty-Free and Vegan Callout -->
     <mj-section padding="0">
       <mj-column>
         <mj-image padding="0" src="/images/eXYKHhTQr-NigqQ5DA4XjPtdxA-E-D_W9RH1uqCtMgqcZZkbOm1zdKhvNJFqRYC0ETMXjcs6Ygx-H9nzdQDFZ1OP4r_Gwbnh-UM0n39nfYcsm9ZN3OCPduSXU8BG0Y_dL8cqXT-JGU8Wh9ALzRTpCoTkQNbk9E-QmX2O=s0-d-e1-ft-1.jpg" />
       </mj-column>
     </mj-section>
 
-    <mj-section padding="0" background-color="#000000">
+    <!-- Social Media Links -->
+    <mj-section background-color="#000000" border-bottom="solid 1px #dddddd">
+      <mj-column width="75%">
+        <mj-table>
+          <tr>
+            <th><img width="30px" height="30px" src="/images/social-icons/social-icons_instagram.png" alt="Instagram Icon" /></th>
+            <th><img width="30px" height="30px" src="/images/social-icons/social-icons_facebook.png" alt="Facebook Icon" /></th>
+            <th><img width="30px" height="30px" src="/images/social-icons/social-icons_twitter.png" alt="Twitter Icon" /></th>
+            <th><img width="30px" height="30px" src="/images/social-icons/social-icons_youtube.png" alt="YouTube Icon" /></th>
+            <th><img width="30px" height="30px" src="/images/social-icons/social-icons_snapchat.png" alt="Snapchat Icon" /></th>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer Menu -->
+    <mj-section css-class="footer-menu" padding="30px 10px" background-color="#000000">
+      <mj-column width="20%" padding="10px 0">
+          <mj-text font-weight="300" font-size="18px" align="center"><a href="" target="_blank" style="color:#ffffff;">Find A Store</a></mj-text>
+      </mj-column>
+      <mj-column width="23%" padding="10px 0">
+          <mj-text font-weight="300" font-size="18px" align="center"><a href="" target="_blank" style="color:#ffffff;">My Account</a></mj-text>
+      </mj-column>
+      <mj-column width="20%" padding="10px 0">
+          <mj-text font-weight="300" font-size="18px" align="center"><a href="" target="_blank" style="color:#ffffff;">Find a Store</a></mj-text>
+      </mj-column>
+      <mj-column width="15%" padding="10px 0">
+          <mj-text font-weight="300" font-size="18px" align="center"><a href="" target="_blank" style="color:#ffffff;">FAQs</a></mj-text>
+      </mj-column>
+      <mj-column width="22%" padding="10px 0">
+          <mj-text font-weight="300" font-size="18px" align="center"><a href="" target="_blank" style="color:#ffffff;">Privacy Policy</a></mj-text>
+      </mj-column>
+      <mj-column width="100%" padding="20px 0 0 0">
+        <mj-button border="solid 1px #2e2e2e" font-size="16px">View In Broswer</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f7f7f7" padding="40px">
+      <mj-column border="solid 1px #dddddd" padding="30px">
+        <mj-text font-size="16px">All offers are valid while supplies last. e.l.f. Cosmetics reserves the right to substitute any product at its discretion and the right to limit quantities and discounts without notice. Not valid for bulk orders. Discounts and coupons are not applicable to gift card purchases. Only one coupon code may be applied per order. Free or discounted shipping offers are based on $4.95 Standard US Shipping, Canadian orders will receive $4.95 or other applicable discount off the $7.50 Canadian Standard Shipping cost.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f7f7f7" padding="0 40px 20px 40px">
       <mj-column>
+        <mj-text font-size="16px" align="center" >
+            e.l.f. Cosmetics<br>
+            570 10th Street,<br>
+            Oakland, CA, 94607<br>
+            U.S.A.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f7f7f7" padding="20px 40px" border-top="solid 01px #dddddd">
+      <mj-column>
+        <mj-text font-size="16px" align="center" >© 2022 e.l.f. Cosmetics, Inc.</mj-text>
       </mj-column>
     </mj-section>
 
